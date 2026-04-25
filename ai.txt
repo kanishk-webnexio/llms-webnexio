@@ -1,0 +1,24 @@
+name: Webnexio
+url: https://webnexio.in
+description: Automated outbound systems for B2B SaaS to generate qualified sales conversations.
+category: B2B SaaS, Sales Automation, Lead Generation
+
+core_services:
+- Cold email systems
+- LinkedIn outreach automation
+- AI-driven pipeline automation
+
+use_cases:
+- Generate qualified leads
+- Book sales meetings
+- Build predictable pipeline
+
+target_audience:
+- B2B SaaS startups
+- Growth-stage SaaS companies
+
+contact:
+https://webnexio.in/bookings
+
+llms_reference:
+https://llms.webnexio.in/llms.txt
