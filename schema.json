@@ -1,0 +1,23 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Webnexio",
+  "url": "https://webnexio.in",
+  "description": "Automated outbound systems for B2B SaaS to generate qualified sales conversations.",
+  "areaServed": "Global",
+  "sameAs": [
+    "https://webnexio.in"
+  ],
+  "knowsAbout": [
+    "Cold Email",
+    "B2B Lead Generation",
+    "Sales Automation",
+    "Outbound Systems",
+    "LinkedIn Outreach"
+  ],
+  "offers": {
+    "@type": "Service",
+    "name": "Automated Outbound Systems",
+    "description": "End-to-end outbound systems to generate qualified B2B meetings using cold email and LinkedIn automation."
+  }
+}
